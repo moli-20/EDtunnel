@@ -8,7 +8,7 @@ GitHub Repository for [https://github.com/zizifn/edgetunnel](https://github.com/
 
 ask question and cloudflare ips: [https://t.me/edtunnel](https://t.me/edtunnel)
 
-[![Repository](https://img.shields.io/badge/View%20on-GitHub-blue.svg)](https://github.com/zizifn/edgetunnel)
+[![Repository](https://img.shields.io/badge/View%20on-GitHub-blue.svg)](https://github.com/moli-20/edgetunnel)
 
 ## available branches and explain
 
