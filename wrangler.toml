@@ -7,7 +7,7 @@ compatibility_date = "2023-05-26"
 
 [vars]
 # UUID = "2fe9320f-ed3f-4b84-8666-e93b37434aee"
-# PROXYIP = "103.149.177.15"
+# PROXYIP = "103.173.75.62"
 # DNS_RESOLVER_URL = "http://www.gstatic.com/generate_204"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
