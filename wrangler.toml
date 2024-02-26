@@ -1,4 +1,4 @@
-name = "cf-worker-ws-dev5" # todo
+name = "cf-worker-ws-dev7" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -6,10 +6,10 @@ main = "_worker.js"
 compatibility_date = "2023-05-26"
 
 [vars]
-# UUID = "2fe9320f-ed3f-4b84-8666-e93b37434aee"
-# PROXYIP = "103.173.75.62"
+# UUID = "f4416912-c0c6-4aea-b9fe-59e4aeb81ba7"
+# PROXYIP = "202.70.133.12"
 # DNS_RESOLVER_URL = "http://www.gstatic.com/generate_204"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "2fe9320f-ed3f-4b84-8666-e93b37434aee"
+UUID = "f4416912-c0c6-4aea-b9fe-59e4aeb81ba7"
