@@ -6,10 +6,10 @@ main = "_worker.js"
 compatibility_date = "2023-05-26"
 
 [vars]
-# UUID = "f4416912-c0c6-4aea-b9fe-59e4aeb81ba7"
-# PROXYIP = "103.179.57.181"
+# UUID = "dd206adb-2bb6-4864-97fd-6a32793e9ccc"
+# PROXYIP = "36.69.20.244"
 # DNS_RESOLVER_URL = "http://www.gstatic.com/generate_204"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "f4416912-c0c6-4aea-b9fe-59e4aeb81ba7"
+UUID = "dd206adb-2bb6-4864-97fd-6a32793e9ccc"
