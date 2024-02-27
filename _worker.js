@@ -3,9 +3,9 @@ import { connect } from 'cloudflare:sockets';
 
 // How to generate your own UUID:
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
-let userID = 'f4416912-c0c6-4aea-b9fe-59e4aeb81ba7';
+let userID = 'dd206adb-2bb6-4864-97fd-6a32793e9ccc';
 
-const proxyIPs = ['103.179.57.181', 'paralabs.id'];
+const proxyIPs = ['36.69.20.244'];
 
 let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
 
